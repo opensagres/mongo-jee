@@ -6,7 +6,7 @@
 	</parent>
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>fr.opensagres.mongodb</groupId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<artifactId>mongo-jee-parent</artifactId>
 	<packaging>pom</packaging>
 	<name>JEE support for MongoDB</name>
@@ -54,7 +54,7 @@
 		<url>https://github.com/opensagres/mongo-jee</url>
 		<connection>scm:git:https://github.com/opensagres/mongo-jee.git</connection>
 		<developerConnection>scm:git:http://github.com/opensagres/mongo-jee.git</developerConnection>
-	  <tag>mongo-jee-parent-1.0.0</tag>
+	  <tag>HEAD</tag>
   </scm>
 	<modules>
 		<module>mongo-jee</module>
